@@ -13,3 +13,5 @@
  *= require_tree .
  *= require_self
  */
+ .top { background-color: #345678; height: 90px;}
+ .container { background-color: #567890; padding:30px; width: 60%; }

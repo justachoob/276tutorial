@@ -14,3 +14,6 @@
 //= require jquery_ujs
 //= require turbolinks
 //= require_tree .
+function displayDate() {
+    document.getElementById("demo").innerHTML = Date();
+}
